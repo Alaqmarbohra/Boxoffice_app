@@ -8,4 +8,4 @@ This react app is using an API and give detail of movies. I create this web app 
 
 
 
-link :-
+link :- https://alaqmarbohra.github.io/Boxoffice_app/
