@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Boxoffice_app/static/css/main.e6c13ad2.css",
+    "main.js": "/Boxoffice_app/static/js/main.31dcecef.js",
+    "index.html": "/Boxoffice_app/index.html",
+    "main.e6c13ad2.css.map": "/Boxoffice_app/static/css/main.e6c13ad2.css.map",
+    "main.31dcecef.js.map": "/Boxoffice_app/static/js/main.31dcecef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.31dcecef.js"
+  ]
+}
